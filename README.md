@@ -14,12 +14,12 @@ A app I created for my web game, so you think you know reddit. This app will scr
 5) Run the main program!
 
 
-###How to edit (noob friendly) to select more / less information.
+###How to edit to select more / less information.
 
-Line 21 - Add more coloumns for the information
-line 40/41/43 - Add the new columns and increase / decrease the %s for each item.
-Line 64/65/66 - Here you can choose which information you wish to collect, it needs to match up with the new columns, 
-Line 76 - Make sure you pass the new variables which contain the data.
+- Line 21 - Add more columns for the information
+- line 40/41/43 - Add the new columns and increase / decrease the %s for each item.
+- Line 64/65/66 - Here you can choose which information you wish to collect, it needs to match up with the new columns, 
+- Line 76 - Make sure you pass the new variables which contain the data.
 
 ###How to increase the amount of images collected from each subreddit. Or change sample size?
 
